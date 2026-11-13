@@ -1,0 +1,16 @@
+# Core PDF and text extraction libraries
+pdfplumber>=0.11.0
+pypdf>=4.0.0
+
+# Excel generation and data formatting (CA Reporting)
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# OCR libraries (for scanned / image-based invoices)
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+Pillow>=10.0.0
+
+# Test invoice generator (for create_sample_invoices.py)
+reportlab>=4.0.0
+

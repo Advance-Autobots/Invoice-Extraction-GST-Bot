@@ -1,0 +1,23 @@
+==============================================================================
+               INVOICE EXTRACTION & GST VALIDATION BOT
+                      COMPLETE USER INSTRUCTION MANUAL
+==============================================================================
+
+WHAT THIS TOOL DOES:
+This automation tool was built specifically for Chartered Accountants, tax 
+practitioners, and audit teams to automate purchase invoice processing:
+- Extracts supplier details, GSTINs, invoice numbers, dates, HSN codes, and tax figures.
+- Validates statutory GST compliance under the CGST Act (intra vs. inter-state heads).
+- Performs arithmetic cross-checks (Taxable Value + Taxes = Grand Total).
+- Detects duplicate billing across batches (SHA-256 hash + invoice particulars).
+- Automatically produces 3 professional audit Excel registers in 'output/'.
+- Safely categorizes files into 'processed/' (clean) and 'exceptions/' (review needed).
+
+HOW TO USE:
+1. Place invoice files into: input/invoices/
+2. Double-click: Invoice_Extractor.bat
+3. View results in: output/Invoice_Register.xlsx & Exception_Report.xlsx
+
+NEED SAMPLE BILLS TO TEST?
+Run 'python create_sample_invoices.py' to generate 8 realistic test invoices.
+==============================================================================

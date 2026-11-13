@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs & temporary files
+logs/*.log
+*.log
+output/*_latest.xlsx
+
+# Microsoft Excel temporary lock files
+~$*.xlsx
+
+# Zip archives
+*.zip
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Client Data Privacy Protection (Prevent accidental upload of confidential tax invoices)
+input/invoices/*.pdf
+input/invoices/*.PDF
+input/invoices/*.jpg
+input/invoices/*.jpeg
+input/invoices/*.png
+input/invoices/*.JPG
+input/invoices/*.JPEG
+input/invoices/*.PNG
+processed/*.pdf
+processed/*.PDF
+processed/*.jpg
+processed/*.jpeg
+processed/*.png
+exceptions/*.pdf
+exceptions/*.PDF
+exceptions/*.jpg
+exceptions/*.jpeg
+exceptions/*.png
+
+# Preserve directory structure and instructional files
+!input/invoices/.gitkeep
+!input/invoices/INSTRUCTIONS.txt
+!processed/.gitkeep
+!processed/README.txt
+!exceptions/.gitkeep
+!exceptions/README.txt
+!logs/.gitkeep
+!logs/README.txt
+!output/*.xlsx
+
