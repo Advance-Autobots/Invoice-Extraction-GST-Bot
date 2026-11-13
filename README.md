@@ -1,6 +1,5 @@
 # 🧾 Invoice Extraction & GST Validation Bot
 ### Practical Automation & Tax Audit Engine for Chartered Accountants
-*Developed under the Institute of Chartered Accountants of India (ICAI) Advanced Information Technology Training (Advanced ITT) Curriculum*
 
 [![ICAI Advanced ITT](https://img.shields.io/badge/Course-ICAI%20Advanced%20ITT-blue.svg)](https://www.icai.org/)
 [![Tax Compliance](https://img.shields.io/badge/Compliance-CGST%20Act%20Sec%2016(2)-green.svg)](https://cbic-gst.gov.in/)
