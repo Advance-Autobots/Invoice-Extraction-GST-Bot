@@ -1,7 +1,6 @@
 # 🧾 Invoice Extraction & GST Validation Bot
 ### Practical Automation & Tax Audit Engine for Chartered Accountants
 
-[![ICAI Advanced ITT](https://img.shields.io/badge/Course-ICAI%20Advanced%20ITT-blue.svg)](https://www.icai.org/)
 [![Tax Compliance](https://img.shields.io/badge/Compliance-CGST%20Act%20Sec%2016(2)-green.svg)](https://cbic-gst.gov.in/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://python.org)
